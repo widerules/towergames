@@ -1,6 +1,6 @@
 package net.coolgame.towergame;
 
-import net.coolgame.towergame.Screens.GameScreen;
+import net.coolgame.towergame.screens.GameScreen;
 
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.Game;

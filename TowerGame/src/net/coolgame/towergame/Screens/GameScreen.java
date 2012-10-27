@@ -1,4 +1,4 @@
-package net.coolgame.towergame.Screens;
+package net.coolgame.towergame.screens;
 
 import com.badlogic.gdx.*;
 import com.badlogic.gdx.graphics.Color;
